@@ -1,0 +1,7 @@
+import cmath
+n=int(input("Enter the value of n:"))
+n=str(n)
+nn=("%s%s"%(n,n))
+nnn=("%s%s%s"%(n,n,n)
+sum=int(n)+int(nn)+int(nnn)
+print(f"the sum of {n}+{nn}+{nnn}={sum}")
